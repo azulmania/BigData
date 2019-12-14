@@ -2,3 +2,5 @@ __pycache__
 .ipynb_checkpoints
 *.swp
 *~
+*.log
+metastore_db
