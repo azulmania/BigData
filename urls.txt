@@ -1,0 +1,3 @@
+Datos de prueba para spark: 	shorturl.at/cekuF
+Quijote: 						https://www.gutenoberg.org/ebooks/2000.txt.utf-8
+Movie lens:						http://files.grouplens.org/datasets/movielens/ml-100k.zip
