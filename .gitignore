@@ -5,4 +5,6 @@ __pycache__
 *.log
 metastore_db
 IdeaProjects/HolaSpark/target
+IdeaProjects/HolaSpark/data
 IdeaProjects/HolaMundo/target
+IdeaProjects/HolaMundo/data

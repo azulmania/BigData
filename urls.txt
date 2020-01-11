@@ -1,4 +1,7 @@
 Datos de prueba para spark: 	shorturl.at/cekuF
 Quijote: 						https://www.gutenoberg.org/ebooks/2000.txt.utf-8
 Movie lens:						http://files.grouplens.org/datasets/movielens/ml-100k.zip
-SparkScala-Data1.zip			shorturl.at/IJKs9
+SparkScala-Data1.zip			shorturl.at/IJKs9 	-> IdeaProjects/HolaSpark/data
+data_scala_spark.zip            shorturl.at/BDIW9	-> IdeaProjects/HolaSpark/data
+
+
