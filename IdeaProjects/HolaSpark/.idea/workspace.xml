@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db051929-4246-4a15-b074-327a98c7b375" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HolaMundo/target/.history" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HolaMundo/target/scala-2.12/classes/sesion1/App$.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HolaMundo/target/scala-2.12/classes/sesion1/App.class" beforeDir="false" />
@@ -44,31 +43,7 @@
       <change beforePath="$PROJECT_DIR$/../HolaMundo/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HolaMundo/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HolaMundo/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_7_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_9_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/HolaSpark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/HolaSpark.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/principal/EcommerceApp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/principal/EcommerceApp.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/principal/EcommerceApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/principal/EcommerceApp$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/principal/EcommerceApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/principal/EcommerceApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../data/resultado.txt/._SUCCESS.crc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../data/resultado.txt/.part-00000.crc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../data/resultado.txt/.part-00001.crc" beforeDir="false" />
@@ -76,7 +51,6 @@
       <change beforePath="$PROJECT_DIR$/../../data/resultado.txt/part-00000" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../data/resultado.txt/part-00001" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spark-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../urls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../urls.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -96,10 +70,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/principal/Cars.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/principal/SparkJoins.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="510">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="e#19#58#0" expanded="true" />
               </folding>
@@ -108,12 +82,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/principal/Meteo.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/principal/Movies.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="82" selection-start-line="23" selection-start-column="82" selection-end-line="23" selection-end-column="82" />
+            <state relative-caret-position="-105">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding>
-                <element signature="e#19#58#0" expanded="true" />
+                <element signature="e#19#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/scriptFile.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/principal/EcommerceApp.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/principal/TemperatureApp.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/principal/Meteo.scala" />
@@ -147,6 +120,9 @@
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/principal/Movies.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/principal/Cars.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/principal/StocksRDD.scala" />
+        <option value="$PROJECT_DIR$/data/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/principal/SparkJoins.scala" />
       </list>
     </option>
   </component>
@@ -164,8 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,10 +182,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578747494098" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579280482689" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -231,22 +207,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cars">
+  <component name="RunManager" selected="Application.SparkJoins">
     <configuration name="Cars" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="principal.Cars" />
-      <module name="HolaSpark" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="principal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Meteo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="principal.Meteo" />
       <module name="HolaSpark" />
       <extension name="coverage">
         <pattern>
@@ -271,8 +234,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemperatureApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="principal.TemperatureApp" />
+    <configuration name="SparkJoins" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="principal.SparkJoins" />
+      <module name="HolaSpark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StocksRDD" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="principal.StocksRDD" />
       <module name="HolaSpark" />
       <extension name="coverage">
         <pattern>
@@ -299,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SparkJoins" />
+        <item itemvalue="Application.StocksRDD" />
         <item itemvalue="Application.Cars" />
         <item itemvalue="Application.Movies" />
         <item itemvalue="Application.WordCountApp" />
-        <item itemvalue="Application.Meteo" />
-        <item itemvalue="Application.TemperatureApp" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +332,7 @@
     <frame x="-2" y="25" width="1924" height="891" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +341,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32985657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -388,7 +364,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/scriptFile.scala" />
     <entry file="file://$PROJECT_DIR$/data/customer-orders.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -409,33 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/WordCountApp.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#19#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/EcommerceApp.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="49" />
-          <folding>
-            <element signature="e#19#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/package.scala" />
     <entry file="file://$PROJECT_DIR$/data/movies.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -450,6 +399,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/WordCountApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#19#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/Cars.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding>
+            <element signature="e#19#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/scriptFile.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="54" lean-forward="true" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/Movies.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="e#19#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/principal/Meteo.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -460,20 +446,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/Movies.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/EcommerceApp.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="120">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="49" />
           <folding>
-            <element signature="e#19#59#0" expanded="true" />
+            <element signature="e#19#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/Cars.scala">
+    <entry file="file://$PROJECT_DIR$/data/guitars.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/StocksRDD.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        <state relative-caret-position="359">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#19#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/bands.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/guitarPlayers.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/principal/SparkJoins.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#19#58#0" expanded="true" />
           </folding>
